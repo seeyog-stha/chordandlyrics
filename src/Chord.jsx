@@ -68,7 +68,7 @@ export default function Chord() {
         dangerouslySetInnerHTML={{ __html: disp }}
       />
       <button onClick={handleTranspose}>transpose up </button>
-      <button onClick={handleTransposeDown}>transpose up </button>
+      <button onClick={handleTransposeDown}>transpose down </button>
       <div
       
         dangerouslySetInnerHTML={{ __html: test }}
