@@ -1,0 +1,6 @@
+.chord{
+    cursor: pointer;
+}
+.chord1:hover{
+    background: pink;
+}
